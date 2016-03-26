@@ -45,7 +45,7 @@ double RandomValuesArray::median() const
 int RandomValuesArray::variance() const
 {
 	return  std::pow(standardDeviation(), 2);
-};
+}
 double RandomValuesArray::standardDeviation() const
 {
 	int controlVar{ 0 };
