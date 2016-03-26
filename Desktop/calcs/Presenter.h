@@ -12,7 +12,7 @@ public:
 	void displaySum()const;
 	void displayMedian() const;
 	void displayVariance() const;
-    void displayStandardDeviation() const;
+	void displayStandardDeviation() const;
 	void displayMax() const;
 	void displayMin() const;
 	void displayAscendingOrder() const;
