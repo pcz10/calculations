@@ -11,7 +11,7 @@ public:
 	int size() const;
 	int at(unsigned index) const;
 
-	//osobiscie, wepchalbym te funkcje w osobn¹ klase, np. StatisticMethods
+	//osobiscie, wepchalbym te funkcje w osobna klase, np. StatisticMethods
 	double mean() const;
 	int sum() const;
 	double median() const;
