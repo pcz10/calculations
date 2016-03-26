@@ -50,13 +50,13 @@ void Presenter::printArray() const
 }
 void Presenter::makeAllOperations() const
 {
-	this->displayMean();
-	this->displaySum();
-	this->displayMedian();
-	this->displayVariance();
-	this->displayStandardDeviation();
-	this->displayMax();
-	this->displayMin();
-	this->displayAscendingOrder();
-	this->displayDescendingOrder();
+	displayMean();
+	displaySum();
+	displayMedian();
+	displayVariance();
+	displayStandardDeviation();
+	displayMax();
+	displayMin();
+	displayAscendingOrder();
+	displayDescendingOrder();
 }
